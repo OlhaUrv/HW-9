@@ -131,7 +131,6 @@ li:active {
 	background: lightseagreen;
 	position: relative;
   border: 2px solid #ccc;
-	max-height: 500px;
 	max-width: 320px;
 }
 
